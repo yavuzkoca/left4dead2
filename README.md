@@ -1,6 +1,6 @@
 # Left 4 Dead 2 Team Balancer & Stats
 
-This repository provides a **Node.js + TypeScript** application for managing Left 4 Dead 2 player statistics, generating balanced teams based on win/loss records, and analyzing player match histories.
+This repository provides a **Node.js + TypeScript** application for managing Left 4 Dead 2 player statistics, generating balanced teams based on win/loss records, and analyzing player match histories based on this [google sheet](https://docs.google.com/spreadsheets/d/1JKcCcxOc7WVT43a07FFUHhbMnu-rFYftQBzf8Gf2hhM/edit?usp=sharing)
 
 ---
 
