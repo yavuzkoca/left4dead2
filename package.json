@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@types/node": "^24.0.7",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "csv-parse": "^5.6.0",
+    "inquirer": "^12.6.3",
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "start": "ts-node balance-ui.ts",
+    "update": "ts-node update-players.ts",
+    "score": "ts-node score.ts",
+    "pair": "ts-node pair-wins.ts"
+  }
+}

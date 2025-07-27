@@ -1,0 +1,786 @@
+[
+  {
+    "map": "Blood Harvest",
+    "teamA": [
+      "Sansarinyo",
+      "Natzuka",
+      "Efe",
+      "Violence"
+    ],
+    "teamB": [
+      "Astro",
+      "GhostBoy",
+      "Ibo",
+      "körümgöz"
+    ],
+    "date": "26/07/2025"
+  },
+  {
+    "map": "The Sacrifice",
+    "teamA": [
+      "Astro",
+      "Natzuka",
+      "Ibo",
+      "Violence"
+    ],
+    "teamB": [
+      "GhostBoy",
+      "Sansarinyo",
+      "Efe",
+      "körümgöz"
+    ],
+    "date": "25/07/2025"
+  },
+  {
+    "map": "No Mercy",
+    "teamA": [
+      "GhostBoy",
+      "Astro",
+      "Natzuka",
+      "Efe"
+    ],
+    "teamB": [
+      "körümgöz",
+      "Sansarinyo",
+      "Violence",
+      "Ibo"
+    ],
+    "date": "25/07/2025"
+  },
+  {
+    "map": "Dark Carnival",
+    "teamA": [
+      "GhostBoy",
+      "Sansarinyo",
+      "Natzuka",
+      "Efe"
+    ],
+    "teamB": [
+      "Astro",
+      "Ibo",
+      "Violence",
+      "körümgöz"
+    ],
+    "date": "24/07/2025"
+  },
+  {
+    "map": "Dead Center",
+    "teamA": [
+      "GhostBoy",
+      "Ibo",
+      "Natzuka",
+      "Astro"
+    ],
+    "teamB": [
+      "Sansarinyo",
+      "izzet",
+      "Falcon",
+      "körümgöz"
+    ],
+    "date": "23/07/2025"
+  },
+  {
+    "map": "Hard Rain",
+    "teamA": [
+      "Astro",
+      "GhostBoy",
+      "Ibo",
+      "körümgöz"
+    ],
+    "teamB": [
+      "Falcon",
+      "Violence",
+      "Efe",
+      "Sansarinyo"
+    ],
+    "date": "23/07/2025"
+  },
+  {
+    "map": "The Last Stand",
+    "teamA": [
+      "GhostBoy",
+      "Falcon",
+      "Astro",
+      "körümgöz"
+    ],
+    "teamB": [
+      "Ibo",
+      "Natzuka",
+      "Sansarinyo",
+      "izzet"
+    ],
+    "date": "22/07/2025"
+  },
+  {
+    "map": "Death Toll",
+    "teamA": [
+      "Astro",
+      "Falcon",
+      "Ibo",
+      "Natzuka"
+    ],
+    "teamB": [
+      "GhostBoy",
+      "Sansarinyo",
+      "izzet",
+      "körümgöz"
+    ],
+    "date": "22/07/2025"
+  },
+  {
+    "map": "The Sacrifice",
+    "teamA": [
+      "Falcon",
+      "Astro",
+      "Violence",
+      "Natzuka"
+    ],
+    "teamB": [
+      "GhostBoy",
+      "Sansarinyo",
+      "körümgöz",
+      "Efe"
+    ],
+    "date": "21/07/2025"
+  },
+  {
+    "map": "Cold Stream",
+    "teamA": [
+      "Sansarinyo",
+      "GhostBoy",
+      "izzet",
+      "Violence"
+    ],
+    "teamB": [
+      "Astro",
+      "Ibo",
+      "Falcon",
+      "Natzuka"
+    ],
+    "date": "20/07/2025"
+  },
+  {
+    "map": "Dark Carnival",
+    "teamA": [
+      "Dante",
+      "GhostBoy",
+      "Natzuka",
+      "Violence"
+    ],
+    "teamB": [
+      "Falcon",
+      "Ibo",
+      "Yusufnisic",
+      "Efe"
+    ],
+    "date": "19/07/2025"
+  },
+  {
+    "map": "Dead Center",
+    "teamA": [
+      "Falcon",
+      "Ibo",
+      "Yusufnisic",
+      "Efe"
+    ],
+    "teamB": [
+      "Dante",
+      "GhostBoy",
+      "Natzuka",
+      "Violence"
+    ],
+    "date": "19/07/2025"
+  },
+  {
+    "map": "Dead Air",
+    "teamA": [
+      "Falcon",
+      "Sansarinyo",
+      "körümgöz",
+      "Ibo"
+    ],
+    "teamB": [
+      "Astro",
+      "GhostBoy",
+      "Natzuka",
+      "Dante"
+    ],
+    "date": "17/07/2025"
+  },
+  {
+    "map": "The Parish",
+    "teamA": [
+      "Sansarinyo",
+      "Falcon",
+      "Natzuka",
+      "izzet"
+    ],
+    "teamB": [
+      "Astro",
+      "GhostBoy",
+      "Violence",
+      "Ibo"
+    ],
+    "date": "16/07/2025"
+  },
+  {
+    "map": "Dark Carnival",
+    "teamA": [
+      "Sansarinyo",
+      "Eymen",
+      "Falcon",
+      "Dante"
+    ],
+    "teamB": [
+      "GhostBoy",
+      "Ibo",
+      "Natzuka",
+      "Yusufnisic"
+    ],
+    "date": "14/07/2025"
+  },
+  {
+    "map": "Dead Center",
+    "teamA": [
+      "Sansarinyo",
+      "Yusufnisic",
+      "izzet",
+      "Dante"
+    ],
+    "teamB": [
+      "Ibo",
+      "Falcon",
+      "GhostBoy",
+      "Natzuka"
+    ],
+    "date": "14/07/2025"
+  },
+  {
+    "map": "Dark Carnival",
+    "teamA": [
+      "Dante",
+      "Sansarinyo",
+      "Astro",
+      "Efe"
+    ],
+    "teamB": [
+      "Falcon",
+      "GhostBoy",
+      "Ibo",
+      "Violence"
+    ],
+    "date": "12/07/2025"
+  },
+  {
+    "map": "Simulation",
+    "teamA": [
+      "GhostBoy",
+      "Falcon",
+      "Astro",
+      "Violence"
+    ],
+    "teamB": [
+      "Sansarinyo",
+      "Dante",
+      "Efe",
+      "Ibo"
+    ],
+    "date": "12/07/2025"
+  },
+  {
+    "map": "No Mercy",
+    "teamA": [
+      "GhostBoy",
+      "Falcon",
+      "Dante",
+      "Ibo"
+    ],
+    "teamB": [
+      "Violence",
+      "Efe",
+      "Sansarinyo",
+      "Astro"
+    ],
+    "date": "12/07/2025"
+  },
+  {
+    "map": "Crash Course",
+    "teamA": [
+      "GhostBoy",
+      "Falcon",
+      "Astro",
+      "Dante"
+    ],
+    "teamB": [
+      "Sansarinyo",
+      "Natzuka",
+      "izzet",
+      "Ibo"
+    ],
+    "date": "12/07/2025"
+  },
+  {
+    "map": "No Mercy",
+    "teamA": [
+      "Sansarinyo",
+      "izzet",
+      "Astro",
+      "Dante"
+    ],
+    "teamB": [
+      "GhostBoy",
+      "Falcon",
+      "Ibo",
+      "Natzuka"
+    ],
+    "date": "12/07/2025"
+  },
+  {
+    "map": "Blood Harvest",
+    "teamA": [
+      "Sansarinyo",
+      "Natzuka",
+      "Ibo",
+      "Dante"
+    ],
+    "teamB": [
+      "Astro",
+      "Falcon",
+      "GhostBoy",
+      "körümgöz"
+    ],
+    "date": "11/07/2025"
+  },
+  {
+    "map": "Simulation",
+    "teamA": [
+      "GhostBoy",
+      "Astro",
+      "Falcon",
+      "Dante"
+    ],
+    "teamB": [
+      "Sansarinyo",
+      "körümgöz",
+      "Ibo",
+      "Natzuka"
+    ],
+    "date": "11/07/2025"
+  },
+  {
+    "map": "Simulation",
+    "teamA": [
+      "GhostBoy",
+      "Falcon",
+      "Astro",
+      "Ibo"
+    ],
+    "teamB": [
+      "Sansarinyo",
+      "Dante",
+      "körümgöz",
+      "Natzuka"
+    ],
+    "date": "11/07/2025"
+  },
+  {
+    "map": "Death Toll",
+    "teamA": [
+      "Sansarinyo",
+      "Astro",
+      "Dante",
+      "Violence"
+    ],
+    "teamB": [
+      "Falcon",
+      "GhostBoy",
+      "Ibo",
+      "Natzuka"
+    ],
+    "date": "09/07/2025"
+  },
+  {
+    "map": "The Last Stand",
+    "teamA": [
+      "GhostBoy",
+      "Falcon",
+      "Astro",
+      "Ibo"
+    ],
+    "teamB": [
+      "Sansarinyo",
+      "Efe",
+      "Dante",
+      "Violence"
+    ],
+    "date": "08/07/2025"
+  },
+  {
+    "map": "Cold Stream",
+    "teamA": [
+      "GhostBoy",
+      "Falcon",
+      "Astro",
+      "Ibo"
+    ],
+    "teamB": [
+      "Sansarinyo",
+      "Efe",
+      "Dante",
+      "Violence"
+    ],
+    "date": "08/07/2025"
+  },
+  {
+    "map": "Dead Center",
+    "teamA": [
+      "Sansarinyo",
+      "GhostBoy",
+      "Ibo",
+      "Dante"
+    ],
+    "teamB": [
+      "Astro",
+      "Falcon",
+      "Natzuka",
+      "Violence"
+    ],
+    "date": "07/07/2025"
+  },
+  {
+    "map": "Simulation",
+    "teamA": [
+      "Sansarinyo",
+      "Astro",
+      "Natzuka",
+      "Dante"
+    ],
+    "teamB": [
+      "Falcon",
+      "GhostBoy",
+      "Violence",
+      "Ibo"
+    ],
+    "date": "07/07/2025"
+  },
+  {
+    "map": "Simulation",
+    "teamA": [
+      "Sansarinyo",
+      "GhostBoy",
+      "Falcon",
+      "Dante"
+    ],
+    "teamB": [
+      "Astro",
+      "Ibo",
+      "Violence",
+      "Natzuka"
+    ],
+    "date": "07/07/2025"
+  },
+  {
+    "map": "Dead Air",
+    "teamA": [
+      "GhostBoy",
+      "Sansarinyo",
+      "Violence",
+      "Ibo"
+    ],
+    "teamB": [
+      "Astro",
+      "Dante",
+      "Falcon",
+      "Natzuka"
+    ],
+    "date": "06/07/2025"
+  },
+  {
+    "map": "The Parish",
+    "teamA": [
+      "GhostBoy",
+      "Sansarinyo",
+      "Ibo",
+      "Efe"
+    ],
+    "teamB": [
+      "Astro",
+      "Dante",
+      "Falcon",
+      "Natzuka"
+    ],
+    "date": "06/07/2025"
+  },
+  {
+    "map": "Swamp Fever",
+    "teamA": [
+      "Astro",
+      "Falcon",
+      "Natzuka",
+      "Ibo"
+    ],
+    "teamB": [
+      "GhostBoy",
+      "Sansarinyo",
+      "Dante",
+      "körümgöz"
+    ],
+    "date": "05/07/2025"
+  },
+  {
+    "map": "Dark Carnival",
+    "teamA": [
+      "Astro",
+      "Falcon",
+      "Natzuka",
+      "Ibo"
+    ],
+    "teamB": [
+      "GhostBoy",
+      "Sansarinyo",
+      "Dante",
+      "körümgöz"
+    ],
+    "date": "05/07/2025"
+  },
+  {
+    "map": "Hard Rain",
+    "teamA": [
+      "GhostBoy",
+      "Sansarinyo",
+      "Dante",
+      "körümgöz"
+    ],
+    "teamB": [
+      "Astro",
+      "Falcon",
+      "Natzuka",
+      "Ibo"
+    ],
+    "date": "05/07/2025"
+  },
+  {
+    "map": "Death Toll",
+    "teamA": [
+      "Astro",
+      "Yusufnisic",
+      "Sansarinyo",
+      "körümgöz"
+    ],
+    "teamB": [
+      "GhostBoy",
+      "Dante",
+      "Falcon",
+      "Ibo"
+    ],
+    "date": "04/07/2025"
+  },
+  {
+    "map": "Simulation",
+    "teamA": [
+      "Sansarinyo",
+      "Yusufnisic",
+      "GhostBoy",
+      "Ibo"
+    ],
+    "teamB": [
+      "Astro",
+      "Dante",
+      "Falcon",
+      "körümgöz"
+    ],
+    "date": "04/07/2025"
+  },
+  {
+    "map": "The Sacrifice",
+    "teamA": [
+      "Sansarinyo",
+      "Yusufnisic",
+      "Ibo",
+      "Astro"
+    ],
+    "teamB": [
+      "GhostBoy",
+      "Falcon",
+      "körümgöz",
+      "Dante"
+    ],
+    "date": "04/07/2025"
+  },
+  {
+    "map": "Crash Course",
+    "teamA": [
+      "Sansarinyo",
+      "Falcon",
+      "Dante",
+      "Violence"
+    ],
+    "teamB": [
+      "Astro",
+      "GhostBoy",
+      "Ibo",
+      "Efe"
+    ],
+    "date": "28/06/2025"
+  },
+  {
+    "map": "No Mercy",
+    "teamA": [
+      "Sansarinyo",
+      "Falcon",
+      "Dante",
+      "Violence"
+    ],
+    "teamB": [
+      "Astro",
+      "GhostBoy",
+      "Ibo",
+      "Efe"
+    ],
+    "date": "28/06/2025"
+  },
+  {
+    "map": "The Sacrifice",
+    "teamA": [
+      "GhostBoy",
+      "Sansarinyo",
+      "Falcon",
+      "Efe"
+    ],
+    "teamB": [
+      "Astro",
+      "izzet",
+      "Natzuka",
+      "Ibo"
+    ],
+    "date": "27/06/2025"
+  },
+  {
+    "map": "Swamp Fever",
+    "teamA": [
+      "Sansarinyo",
+      "GhostBoy",
+      "Natzuka",
+      "izzet"
+    ],
+    "teamB": [
+      "Astro",
+      "Falcon",
+      "Ibo",
+      "Yusufnisic"
+    ],
+    "date": "23/06/2025"
+  },
+  {
+    "map": "Blood Harvest",
+    "teamA": [
+      "Sansarinyo",
+      "Falcon",
+      "Astro",
+      "Dante"
+    ],
+    "teamB": [
+      "Natzuka",
+      "GhostBoy",
+      "Ibo",
+      "izzet"
+    ],
+    "date": "23/06/2025"
+  },
+  {
+    "map": "Hard Rain",
+    "teamA": [
+      "Sansarinyo",
+      "Falcon",
+      "körümgöz",
+      "Ibo"
+    ],
+    "teamB": [
+      "GhostBoy",
+      "Astro",
+      "Dante",
+      "Violence"
+    ],
+    "date": "22/06/2025"
+  },
+  {
+    "map": "Cold Stream",
+    "teamA": [
+      "Sansarinyo",
+      "Astro",
+      "Dante",
+      "Efe"
+    ],
+    "teamB": [
+      "Falcon",
+      "GhostBoy",
+      "Natzuka",
+      "Ibo"
+    ],
+    "date": "21/06/2025"
+  },
+  {
+    "map": "The Parish",
+    "teamA": [
+      "Falcon",
+      "GhostBoy",
+      "Natzuka",
+      "Ibo"
+    ],
+    "teamB": [
+      "Sansarinyo",
+      "Astro",
+      "Dante",
+      "Efe"
+    ],
+    "date": "21/06/2025"
+  },
+  {
+    "map": "The Parish",
+    "teamA": [
+      "GhostBoy",
+      "Astro",
+      "Natzuka",
+      "Violence"
+    ],
+    "teamB": [
+      "Sansarinyo",
+      "Falcon",
+      "Dante",
+      "Ibo"
+    ],
+    "date": "20/06/2025"
+  },
+  {
+    "map": "Dead Air",
+    "teamA": [
+      "Sansarinyo",
+      "Natzuka",
+      "Ibo",
+      "Astro"
+    ],
+    "teamB": [
+      "Falcon",
+      "GhostBoy",
+      "Dante",
+      "Yusufnisic"
+    ],
+    "date": "20/06/2025"
+  },
+  {
+    "map": "Dark Carnival",
+    "teamA": [
+      "Sansarinyo",
+      "Falcon",
+      "Astro",
+      "körümgöz"
+    ],
+    "teamB": [
+      "Natzuka",
+      "Dante",
+      "GhostBoy",
+      "Ibo"
+    ],
+    "date": "19/06/2025"
+  }
+]
